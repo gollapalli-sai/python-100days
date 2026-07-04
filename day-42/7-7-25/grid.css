@@ -1,0 +1,13 @@
+.parent{
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: 100px 100px 100px;
+    gap: 10px;
+}
+.box{
+    background-color: rgb(120, 120, 120);
+    color: black;
+    border-radius: 10px;
+    box-shadow: 100px color(srgb red green blue);
+
+}
